@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "RKDropdownAlert"
-s.version      = "0.3.0"
+s.version      = "0.3.1"
 s.summary      = "iOS: an extremely simple (and customizeable) alert alternative based on Facebook's app Slingshot"
 
 s.description  = "A UIAlertView alternative that mimics the iPhone's push notification system', -UIAlertView, -SVProgressHUD, -objectivec, -ios, -iphone, -xcode"

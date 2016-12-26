@@ -19,7 +19,7 @@ WAIT! Don't use pods if you want to customize or use the quick and easy [RKDropd
 
 ## Carthage
 ```
-github "cwRichardKim/RKDropdownAlert" ~> 0.3.0
+github "cwRichardKim/RKDropdownAlert" ~> 0.3.1
 ```
 
 ##Demo:
