@@ -1,3 +1,5 @@
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 RKDropdownAlert
 ======================
 
@@ -14,6 +16,11 @@ https://medium.com/@cwRichardKim/devux-uialertview-alternatives-3a78ab64cbf8
 WAIT! Don't use pods if you want to customize or use the quick and easy [RKDropdownAlert show]
 
 	pod 'RKDropdownAlert'
+
+## Carthage
+```
+github "cwRichardKim/RKDropdownAlert" ~> 0.3.0
+```
 
 ##Demo:
 ``` objc
